@@ -1,6 +1,8 @@
 MADANI Work Flow
 just for test 
-<<<<<<< HEAD
+
 branch addition checking
+<<<<<<< HEAD
+
 addition point
 
